@@ -272,7 +272,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 
 **IETF work items**
 
-- [draft-borthwick-msebenzi-environment-state](https://datatracker.ietf.org/doc/draft-borthwick-msebenzi-environment-state/) — Verifiable Intent environment.* constraint family: pre-action fail-closed gates whose membership criterion requires a failing check to halt execution; a host-binding profile allows any conforming mandate format to carry the family.
+- [draft-borthwick-msebenzi-environment-state](https://datatracker.ietf.org/doc/draft-borthwick-msebenzi-environment-state/) — environment.* constraint family: pre-action fail-closed gates whose failure mode must halt execution; a host-binding profile lets any conforming mandate format carry the family.
 - [draft-cui-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-cui-nmrg-llm-nm/) — framework for LLM Agent-assisted network management with human-in-the-loop.
 - [draft-hood-independent-agtp](https://datatracker.ietf.org/doc/draft-hood-independent-agtp/), [draft-hood-agtp-identifiers](https://datatracker.ietf.org/doc/draft-hood-agtp-identifiers/), and [draft-hood-agtp-trust](https://datatracker.ietf.org/doc/draft-hood-agtp-trust/) — AGTP intervention and governance layers; substrate-level confirmation and oversight primitives.
 - [draft-klrc-aiagent-auth](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/) — CIBA-based human-in-the-loop mechanism inside the AIMS model; identity-bound audit trails.
@@ -313,7 +313,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-mih-sato-agent-accountability-composition](https://datatracker.ietf.org/doc/draft-mih-sato-agent-accountability-composition/) — CAN/WHO/WHAT/AUDIT accountability composition.
 - [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/) — SCITT-anchored action records.
 - [draft-morrison-substrate-provenance-grammar](https://datatracker.ietf.org/doc/draft-morrison-substrate-provenance-grammar/) — annotation grammar for agent output provenance.
-- [draft-msebenzi-evidence-action](https://datatracker.ietf.org/doc/draft-msebenzi-evidence-action/) — the evidence.* family: post-hoc, independently recomputable evidence records for agent tool calls; JCS-canonical signed receipts, hash-chained, with a conformance corpus and an independent verifier.
+- [draft-msebenzi-evidence-action](https://datatracker.ietf.org/doc/draft-msebenzi-evidence-action/) — the evidence.* family: post-hoc, independently recomputable evidence records for agent tool calls; JCS-canonical signed receipts, hash-chained.
 - [draft-mw-spice-actor-chain](https://datatracker.ietf.org/doc/draft-mw-spice-actor-chain/), [draft-mw-spice-intent-chain](https://datatracker.ietf.org/doc/draft-mw-spice-intent-chain/), and [draft-mw-spice-inference-chain](https://datatracker.ietf.org/doc/draft-mw-spice-inference-chain/) — delegation, content, and computational provenance chains.
 - [draft-nelson-agent-delegation-receipts](https://datatracker.ietf.org/doc/draft-nelson-agent-delegation-receipts/) — cryptographic delegation receipt protocol with model state attestation.
 - [draft-rampalli-pedigree](https://datatracker.ietf.org/doc/draft-rampalli-pedigree/) — PEDIGREE: delegation chain semantics with pre-authorization model.
