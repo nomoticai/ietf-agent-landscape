@@ -215,9 +215,9 @@ All Internet-Draft references link to the Datatracker document page and will res
 - Agent description schemas (ADP in the ANP suite, AIDIP metadata, A2A-style capability cards mirrored in discovery drafts).
 - [draft-hood-agtp-api](https://datatracker.ietf.org/doc/draft-hood-agtp-api/) — AGTP intent-based verb taxonomy with categories including ACQUIRE, COMPUTE, TRANSACT, ORCHESTRATE, NOTIFY, QUERY; machine-readable intent expression; semantic methods (QUERY, DISCOVER, DELEGATE, EXECUTE, COLLABORATE, PURCHASE).
 - [draft-jeskey-anml](https://datatracker.ietf.org/doc/draft-jeskey-anml/) — ANML semantic vocabulary; also in Category 3.
-- [draft-sz-iaip](https://datatracker.ietf.org/doc/draft-sz-iaip/) — Intent-Aware Interconnection Protocol; intent-based routing semantics at the gateway boundary.
+- [draft-sz-dmsc-iaip](https://datatracker.ietf.org/doc/draft-sz-dmsc-iaip/) — IAIP: Intent-based Agent Interconnection Protocol at Agent Gateway; routing semantics at the gateway boundary (see Category 6).
 - [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/) — using natural language for universal coordination in multi-agent systems (NLIP notes; DMSC-tagged).
-- [draft-yang-gateway-semantic-layer](https://datatracker.ietf.org/doc/draft-yang-gateway-semantic-layer/) — semantic translation layer at the gateway boundary.
+- [draft-yang-dmsc-gateway-semantic-layer](https://datatracker.ietf.org/doc/draft-yang-dmsc-gateway-semantic-layer/) — Gateway Mediation Layer for AI Agent Collaboration; semantic translation at the gateway boundary.
 - [draft-zhang-dmsc-ioa-semantic-interaction](https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/) — semantic interaction for the Internet of Agents.
 
 **External protocols and industry**
@@ -242,13 +242,11 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-agent-gw](https://datatracker.ietf.org/doc/draft-agent-gw/) — agent communication gateway for semantic routing and working memory.
 - [draft-cui-ai-agent-task](https://datatracker.ietf.org/doc/draft-cui-ai-agent-task/) — task-oriented coordination requirements for AI agent protocols.
 - [draft-cui-dmsc-agent-cdi](https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/) — cross-domain interoperability framework for AI agent collaboration.
-- [draft-dunbar-aap](https://datatracker.ietf.org/doc/draft-dunbar-aap/) — AAP: Agent Access Protocol; agent access mechanisms.
 - [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment/) — Agent Attachment Protocol.
 - [draft-dunbar-dmsc-gw-scenarios-gap-analysis](https://datatracker.ietf.org/doc/draft-dunbar-dmsc-gw-scenarios-gap-analysis/) — seven gateway properties and gap analysis for the DMSC gateway proposal.
 - [draft-hood-agtp-session](https://datatracker.ietf.org/doc/draft-hood-agtp-session/) — AGTP session substrate for multi-agent orchestration via sessions, transfer, and intent routing.
 - [draft-li-dmsc-inf-architecture](https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/) — DMSC infrastructure architecture.
 - [draft-li-dmsc-macp](https://datatracker.ietf.org/doc/draft-li-dmsc-macp/) — Multi-agent Collaboration Protocol Suite; Agent Gateways handle registration, authentication, capability management.
-- [draft-li-macp](https://datatracker.ietf.org/doc/draft-li-macp/) — Multi-Agent Coordination Protocol.
 - [draft-liu-dmsc-acps-arc](https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/) — agent collaboration protocols architecture for the Internet of Agents.
 - [draft-liu-dmsc-gw-requirements](https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/) — agent gateway requirements.
 - [draft-mapmw-task-discovery](https://datatracker.ietf.org/doc/draft-mapmw-task-discovery/) — task discovery in agentic networks.
@@ -256,7 +254,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement/) — problem statement and requirements for DMSC; gateway layer offloading secured communication, cross-domain connectivity, multi-tenant policy enforcement, and collaboration assistance.
 - [draft-sun-zhang-iaip](https://datatracker.ietf.org/doc/draft-sun-zhang-iaip/) and [draft-sz-dmsc-iaip](https://datatracker.ietf.org/doc/draft-sz-dmsc-iaip/) — Intent-based Agent Interconnection Protocol at Agent Gateway.
 - [draft-yang-dmsc-ioa-task-protocol](https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/) — Internet of Agents Task Protocol for heterogeneous agent collaboration.
-- [draft-zhang-directory-sync](https://datatracker.ietf.org/doc/draft-zhang-directory-sync/) — directory synchronization across gateways.
+- [draft-zhang-dmsc-gateway-directory-sync](https://datatracker.ietf.org/doc/draft-zhang-dmsc-gateway-directory-sync/) — Gateway Capability Directory and Synchronization for the Internet of Agents; directory synchronization across gateways.
 - The DMSC proponents list additional related drafts, including [draft-wang-hjs-judgment-event](https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/).
 
 **External protocols and industry**
