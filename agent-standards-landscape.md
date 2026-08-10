@@ -305,6 +305,8 @@ All Internet-Draft references link to the Datatracker document page and will res
 
 **IETF work items**
 
+- [draft-aravind-oauth-decision-subject](https://datatracker.ietf.org/doc/draft-aravind-oauth-decision-subject/) — dsub: JWT claim naming the party a decision is about on the decision record, distinct from subject, actor, and resource owner; descriptive and non-authorizing.
+- [draft-aravind-oauth-operator-of-record](https://datatracker.ietf.org/doc/draft-aravind-oauth-operator-of-record/) — opr: JWT claim marking whether a human or an agent operated when a presentation or decision was produced; descriptive and non-authorizing.
 - [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations/) — CDDL data format (JSON and CBOR) for verifiable agent conversation records: session metadata, message exchanges, tool invocations, reasoning traces, system events; COSE-signed for SCITT Transparency Service interoperability and RFC 9334 Evidence integration.
 - [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca/) — WCA: Warrant Certificate Authorities; auditable data provenance for AI-agent tool-call chains.
 - [draft-bubblefish-naalp](https://datatracker.ietf.org/doc/draft-bubblefish-naalp/) — N-AALP (Native Agent Application Layer Protocol): signed-object application layer that rides on a transport such as N-PAMP; each object is a deterministic-CBOR record signed as COSE_Sign1 whose declared effect is its authorization, with a single-use approval ledger and a hash-chained signed audit chain in which the object signer and the audit ordering authority are separate keys. Independent Submission.
