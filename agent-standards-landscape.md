@@ -304,6 +304,8 @@ All Internet-Draft references link to the Datatracker document page and will res
 
 **IETF work items**
 
+- [draft-aravind-oauth-decision-subject](https://datatracker.ietf.org/doc/draft-aravind-oauth-decision-subject/) — dsub: JWT claim naming the party a decision is about on the decision record, distinct from subject, actor, and resource owner; descriptive and non-authorizing.
+- [draft-aravind-oauth-operator-of-record](https://datatracker.ietf.org/doc/draft-aravind-oauth-operator-of-record/) — opr: JWT claim marking whether a human or an agent operated when a presentation or decision was produced; descriptive and non-authorizing.
 - [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations/) — CDDL data format (JSON and CBOR) for verifiable agent conversation records: session metadata, message exchanges, tool invocations, reasoning traces, system events; COSE-signed for SCITT Transparency Service interoperability and RFC 9334 Evidence integration.
 - [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca/) — WCA: Warrant Certificate Authorities; auditable data provenance for AI-agent tool-call chains.
 - [draft-bubblefish-naalp](https://datatracker.ietf.org/doc/draft-bubblefish-naalp/) — N-AALP (Native Agent Application Layer Protocol): signed-object application layer that rides on a transport such as N-PAMP; each object is a deterministic-CBOR record signed as COSE_Sign1 whose declared effect is its authorization, with a single-use approval ledger and a hash-chained signed audit chain in which the object signer and the audit ordering authority are separate keys. Independent Submission.
@@ -340,6 +342,8 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-schrock-human-authorization-binding](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-binding/) — binding named-human authorization evidence into agent-action records.
 - [draft-sharif-agent-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-agent-audit-trail/) — Agent Audit Trail: standard logging format for AI systems.
 - [draft-sharif-attp-agent-trust-transport](https://datatracker.ietf.org/doc/draft-sharif-attp-agent-trust-transport/) — ATTP: protocol-agnostic framework for trust scoring, cryptographic identity, action-limit enforcement, compliance gating, and tamper-evident audit for AI agents.
+- [draft-sharif-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-audit-trail/) — audit trail patterns.
+- [draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/) — binds application-layer Action Evidence Packages (signed per-action records of what an AI-agent system did, under what authority, with what outcome) to platform Evidence per the RFC 9334 remote attestation architecture, so a single Verifier appraises the application-layer action and the platform state together.
 - [draft-stone-atep](https://datatracker.ietf.org/doc/draft-stone-atep/) — ATEP: Agent Trust and Execution Passport.
 - [draft-wang-hjs-accountability](https://datatracker.ietf.org/doc/draft-wang-hjs-accountability/) — HJS: Accountability Receipts for AI Agents; minimal JEP profile for exportable AI receipts.
 - [draft-wang-jac](https://datatracker.ietf.org/doc/draft-wang-jac/) — JAC: Declared Dependency Chains for Agent Receipts.
