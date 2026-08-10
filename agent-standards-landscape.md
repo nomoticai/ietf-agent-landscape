@@ -287,6 +287,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-schrock-ep-authorization-receipts](https://datatracker.ietf.org/doc/draft-schrock-ep-authorization-receipts/) — authorization receipts for named-human, exact-action authorization of agent operations.
 - [draft-schrock-human-authorization-into-action-records](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-into-action-records/) — binding named-human authorization evidence into agent-action records.
 - [draft-somoza-dmsc-atn-agent-trust-negotiation](https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/) — Agent Trust Negotiation: Capability, Delegation, and Provenance Binding for AI Agents.
+- [draft-yossif-psea](https://datatracker.ietf.org/doc/draft-yossif-psea/) — PSEA Token Profile: an EAT profile (RFC 9711) carrying evidence that a user-verification-gated key on the user's authenticator signed a canonical digest of a specific action payload at execution time; fail-closed action binding, with attested and asserted user-verification anchoring distinguished normatively. Positioned as complementary to OAuth step-up authentication (RFC 9470). See also Categories 1 and 15.
 
 **External protocols and industry**
 
@@ -531,6 +532,8 @@ Documents in this category inform how the community thinks about agent standards
 - [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/) — agentic AI use cases.
 - [draft-teodor-pilot-problem-statement](https://datatracker.ietf.org/doc/draft-teodor-pilot-problem-statement/) — problem statement: network-layer infrastructure for agent communication.
 - [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis/) — analysis of the IETF-relevant problem space, candidate WG areas, and open-source coordination.
+- [draft-yossif-agent-mandate-problem](https://datatracker.ietf.org/doc/draft-yossif-agent-mandate-problem/) — problem statement: binding executed action parameters to the constraint set a human signed before the agent acted; states requirements without proposing a mechanism.
+- [draft-yossif-enrollment-problem](https://datatracker.ietf.org/doc/draft-yossif-enrollment-problem/) — problem statement: what enrollment must guarantee before a device-bound signature can be resolved to a named human; a dependency inherited by every profile in this space, stated as requirements without a mechanism. See also Category 1.
 
 **External protocols and industry**
 
