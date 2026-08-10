@@ -216,9 +216,9 @@ All Internet-Draft references link to the Datatracker document page and will res
 - Agent description schemas (ADP in the ANP suite, AIDIP metadata, A2A-style capability cards mirrored in discovery drafts).
 - [draft-hood-agtp-api](https://datatracker.ietf.org/doc/draft-hood-agtp-api/) — AGTP intent-based verb taxonomy with categories including ACQUIRE, COMPUTE, TRANSACT, ORCHESTRATE, NOTIFY, QUERY; machine-readable intent expression; semantic methods (QUERY, DISCOVER, DELEGATE, EXECUTE, COLLABORATE, PURCHASE).
 - [draft-jeskey-anml](https://datatracker.ietf.org/doc/draft-jeskey-anml/) — ANML semantic vocabulary; also in Category 3.
-- [draft-sz-iaip](https://datatracker.ietf.org/doc/draft-sz-iaip/) — Intent-Aware Interconnection Protocol; intent-based routing semantics at the gateway boundary.
+- [draft-sz-dmsc-iaip](https://datatracker.ietf.org/doc/draft-sz-dmsc-iaip/) — IAIP: Intent-based Agent Interconnection Protocol at Agent Gateway; routing semantics at the gateway boundary (see Category 6).
 - [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/) — using natural language for universal coordination in multi-agent systems (NLIP notes; DMSC-tagged).
-- [draft-yang-gateway-semantic-layer](https://datatracker.ietf.org/doc/draft-yang-gateway-semantic-layer/) — semantic translation layer at the gateway boundary.
+- [draft-yang-dmsc-gateway-semantic-layer](https://datatracker.ietf.org/doc/draft-yang-dmsc-gateway-semantic-layer/) — Gateway Mediation Layer for AI Agent Collaboration; semantic translation at the gateway boundary.
 - [draft-zhang-dmsc-ioa-semantic-interaction](https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/) — semantic interaction for the Internet of Agents.
 
 **External protocols and industry**
@@ -243,13 +243,11 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-agent-gw](https://datatracker.ietf.org/doc/draft-agent-gw/) — agent communication gateway for semantic routing and working memory.
 - [draft-cui-ai-agent-task](https://datatracker.ietf.org/doc/draft-cui-ai-agent-task/) — task-oriented coordination requirements for AI agent protocols.
 - [draft-cui-dmsc-agent-cdi](https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/) — cross-domain interoperability framework for AI agent collaboration.
-- [draft-dunbar-aap](https://datatracker.ietf.org/doc/draft-dunbar-aap/) — AAP: Agent Access Protocol; agent access mechanisms.
 - [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment/) — Agent Attachment Protocol.
 - [draft-dunbar-dmsc-gw-scenarios-gap-analysis](https://datatracker.ietf.org/doc/draft-dunbar-dmsc-gw-scenarios-gap-analysis/) — seven gateway properties and gap analysis for the DMSC gateway proposal.
 - [draft-hood-agtp-session](https://datatracker.ietf.org/doc/draft-hood-agtp-session/) — AGTP session substrate for multi-agent orchestration via sessions, transfer, and intent routing.
 - [draft-li-dmsc-inf-architecture](https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/) — DMSC infrastructure architecture.
 - [draft-li-dmsc-macp](https://datatracker.ietf.org/doc/draft-li-dmsc-macp/) — Multi-agent Collaboration Protocol Suite; Agent Gateways handle registration, authentication, capability management.
-- [draft-li-macp](https://datatracker.ietf.org/doc/draft-li-macp/) — Multi-Agent Coordination Protocol.
 - [draft-liu-dmsc-acps-arc](https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/) — agent collaboration protocols architecture for the Internet of Agents.
 - [draft-liu-dmsc-gw-requirements](https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/) — agent gateway requirements.
 - [draft-mapmw-task-discovery](https://datatracker.ietf.org/doc/draft-mapmw-task-discovery/) — task discovery in agentic networks.
@@ -257,7 +255,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement/) — problem statement and requirements for DMSC; gateway layer offloading secured communication, cross-domain connectivity, multi-tenant policy enforcement, and collaboration assistance.
 - [draft-sun-zhang-iaip](https://datatracker.ietf.org/doc/draft-sun-zhang-iaip/) and [draft-sz-dmsc-iaip](https://datatracker.ietf.org/doc/draft-sz-dmsc-iaip/) — Intent-based Agent Interconnection Protocol at Agent Gateway.
 - [draft-yang-dmsc-ioa-task-protocol](https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/) — Internet of Agents Task Protocol for heterogeneous agent collaboration.
-- [draft-zhang-directory-sync](https://datatracker.ietf.org/doc/draft-zhang-directory-sync/) — directory synchronization across gateways.
+- [draft-zhang-dmsc-gateway-directory-sync](https://datatracker.ietf.org/doc/draft-zhang-dmsc-gateway-directory-sync/) — Gateway Capability Directory and Synchronization for the Internet of Agents; directory synchronization across gateways.
 - The DMSC proponents list additional related drafts, including [draft-wang-hjs-judgment-event](https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/).
 
 **External protocols and industry**
@@ -275,6 +273,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 
 **IETF work items**
 
+- [draft-borthwick-msebenzi-environment-state](https://datatracker.ietf.org/doc/draft-borthwick-msebenzi-environment-state/) — environment.* constraint family: pre-action fail-closed gates whose failure mode must halt execution; a host-binding profile lets any conforming mandate format carry the family.
 - [draft-cui-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-cui-nmrg-llm-nm/) — framework for LLM Agent-assisted network management with human-in-the-loop.
 - [draft-hood-independent-agtp](https://datatracker.ietf.org/doc/draft-hood-independent-agtp/), [draft-hood-agtp-identifiers](https://datatracker.ietf.org/doc/draft-hood-agtp-identifiers/), and [draft-hood-agtp-trust](https://datatracker.ietf.org/doc/draft-hood-agtp-trust/) — AGTP intervention and governance layers; substrate-level confirmation and oversight primitives.
 - [draft-klrc-aiagent-auth](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/) — CIBA-based human-in-the-loop mechanism inside the AIMS model; identity-bound audit trails.
@@ -285,7 +284,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-rosenberg-aiproto-cheq](https://datatracker.ietf.org/doc/draft-rosenberg-aiproto-cheq/) — CHEQ: human confirmation of agent-proposed decisions before execution; privacy-preserving human entry of information needed for tool invocation without disclosure to the agent.
 - [draft-rosomakho-oauth-txn-challenge](https://datatracker.ietf.org/doc/draft-rosomakho-oauth-txn-challenge/) — OAuth Transaction Authorization Challenge: mechanism for a protected resource to request transaction-specific authorization from a human approver before completing an operation; complements OAuth step-up authentication and CIBA by requesting authorization for a specific transaction rather than fresher authentication alone.
 - [draft-schrock-ep-authorization-receipts](https://datatracker.ietf.org/doc/draft-schrock-ep-authorization-receipts/) — authorization receipts for named-human, exact-action authorization of agent operations.
-- [draft-schrock-human-authorization-into-action-records](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-into-action-records/) — binding named-human authorization evidence into agent-action records.
+- [draft-schrock-human-authorization-binding](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-binding/) — binding named-human authorization evidence into agent-action records.
 - [draft-somoza-dmsc-atn-agent-trust-negotiation](https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/) — Agent Trust Negotiation: Capability, Delegation, and Provenance Binding for AI Agents.
 - [draft-yossif-psea](https://datatracker.ietf.org/doc/draft-yossif-psea/) — PSEA Token Profile: an EAT profile (RFC 9711) carrying evidence that a user-verification-gated key on the user's authenticator signed a canonical digest of a specific action payload at execution time; fail-closed action binding, with attested and asserted user-verification anchoring distinguished normatively. Positioned as complementary to OAuth step-up authentication (RFC 9470). See also Categories 1 and 15.
 
@@ -321,6 +320,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-mih-sato-agent-accountability-composition](https://datatracker.ietf.org/doc/draft-mih-sato-agent-accountability-composition/) — CAN/WHO/WHAT/AUDIT accountability composition.
 - [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/) — SCITT-anchored action records.
 - [draft-morrison-substrate-provenance-grammar](https://datatracker.ietf.org/doc/draft-morrison-substrate-provenance-grammar/) — annotation grammar for agent output provenance.
+- [draft-msebenzi-evidence-action](https://datatracker.ietf.org/doc/draft-msebenzi-evidence-action/) — the evidence.* family: post-hoc, independently recomputable evidence records for agent tool calls; JCS-canonical signed receipts, hash-chained.
 - [draft-mw-spice-actor-chain](https://datatracker.ietf.org/doc/draft-mw-spice-actor-chain/), [draft-mw-spice-intent-chain](https://datatracker.ietf.org/doc/draft-mw-spice-intent-chain/), and [draft-mw-spice-inference-chain](https://datatracker.ietf.org/doc/draft-mw-spice-inference-chain/) — delegation, content, and computational provenance chains.
 - [draft-nelson-agent-delegation-receipts](https://datatracker.ietf.org/doc/draft-nelson-agent-delegation-receipts/) — cryptographic delegation receipt protocol with model state attestation.
 - [draft-rampalli-pedigree](https://datatracker.ietf.org/doc/draft-rampalli-pedigree/) — PEDIGREE: delegation chain semantics with pre-authorization model.
@@ -340,7 +340,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-schrock-ep-authorization-receipts](https://datatracker.ietf.org/doc/draft-schrock-ep-authorization-receipts/) — authorization receipts: self-contained signed artifacts binding named-human or M-of-N quorum authorization to an exact operation, verifiable by a relying party offline.
 - [draft-schrock-ep-enforcement-point](https://datatracker.ietf.org/doc/draft-schrock-ep-enforcement-point/) — Enforcement Point: mechanisms for effect-boundary enforcement of authorization evidence.
 - [draft-schrock-ep-evidence-record](https://datatracker.ietf.org/doc/draft-schrock-ep-evidence-record/) — evidence record format for agent-action evidence.
-- [draft-schrock-human-authorization-into-action-records](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-into-action-records/) — binding named-human authorization evidence into agent-action records.
+- [draft-schrock-human-authorization-binding](https://datatracker.ietf.org/doc/draft-schrock-human-authorization-binding/) — binding named-human authorization evidence into agent-action records.
 - [draft-sharif-agent-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-agent-audit-trail/) — Agent Audit Trail: standard logging format for AI systems.
 - [draft-sharif-attp-agent-trust-transport](https://datatracker.ietf.org/doc/draft-sharif-attp-agent-trust-transport/) — ATTP: protocol-agnostic framework for trust scoring, cryptographic identity, action-limit enforcement, compliance gating, and tamper-evident audit for AI agents.
 - [draft-sharif-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-audit-trail/) — audit trail patterns.
