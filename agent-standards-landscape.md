@@ -341,6 +341,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-sharif-agent-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-agent-audit-trail/) — Agent Audit Trail: standard logging format for AI systems.
 - [draft-sharif-attp-agent-trust-transport](https://datatracker.ietf.org/doc/draft-sharif-attp-agent-trust-transport/) — ATTP: protocol-agnostic framework for trust scoring, cryptographic identity, action-limit enforcement, compliance gating, and tamper-evident audit for AI agents.
 - [draft-sharif-audit-trail](https://datatracker.ietf.org/doc/draft-sharif-audit-trail/) — audit trail patterns.
+- [draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/) — binds application-layer Action Evidence Packages (signed per-action records of what an AI-agent system did, under what authority, with what outcome) to platform Evidence per the RFC 9334 remote attestation architecture, so a single Verifier appraises the application-layer action and the platform state together.
 - [draft-stone-atep](https://datatracker.ietf.org/doc/draft-stone-atep/) — ATEP: Agent Trust and Execution Passport.
 - [draft-wang-hjs-accountability](https://datatracker.ietf.org/doc/draft-wang-hjs-accountability/) — HJS: Accountability Receipts for AI Agents; minimal JEP profile for exportable AI receipts.
 - [draft-wang-jac](https://datatracker.ietf.org/doc/draft-wang-jac/) — JAC: Declared Dependency Chains for Agent Receipts.
