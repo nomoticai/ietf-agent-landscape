@@ -71,6 +71,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-morrison-identity-accord](https://datatracker.ietf.org/doc/draft-morrison-identity-accord/) — identity accord specification for agents.
 - [draft-morrison-identity-attributed-commits](https://datatracker.ietf.org/doc/draft-morrison-identity-attributed-commits/) — identity-attributed commits for source version control.
 - [draft-morrison-identity-pronouns](https://datatracker.ietf.org/doc/draft-morrison-identity-pronouns/) — reference-axis pronoun grammar for handle identity.
+- [draft-morrison-reviewed-by-trailer](https://datatracker.ietf.org/doc/draft-morrison-reviewed-by-trailer/) — peer-review attribution trailer over content-hash-bound artefacts, extending identity-attributed commits.
 - [draft-mw-oauth-actor-chain](https://datatracker.ietf.org/doc/draft-mw-oauth-actor-chain/) and [draft-mcguinness-oauth-actor-profile](https://datatracker.ietf.org/doc/draft-mcguinness-oauth-actor-profile/) — OAuth delegation-chain claims (nested act per RFC 8693; acti and actc candidates) and an actor-profile vocabulary for AI Agent, Sub-Agent, Tool, Service, and Human.
 - [draft-mw-spice-actor-chain](https://datatracker.ietf.org/doc/draft-mw-spice-actor-chain/), [draft-mw-spice-intent-chain](https://datatracker.ietf.org/doc/draft-mw-spice-intent-chain/), and [draft-mw-spice-inference-chain](https://datatracker.ietf.org/doc/draft-mw-spice-inference-chain/) — actor chain (delegation provenance), intent chain (content provenance), inference chain (computational provenance); Merkle-rooted in the OAuth token.
 - [draft-nandakumar-agent-sd-jwt](https://datatracker.ietf.org/doc/draft-nandakumar-agent-sd-jwt/) — SD Agent: selective disclosure for agent discovery and identity management.
@@ -121,6 +122,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-kay-dawn-use-cases](https://datatracker.ietf.org/doc/draft-kay-dawn-use-cases/) — DAWN use cases for agents, workloads, and named entities.
 - [draft-king-dawn-requirements](https://datatracker.ietf.org/doc/draft-king-dawn-requirements/) — companion DAWN requirements draft.
 - [draft-liu-agent-metadata-sync-protocol](https://datatracker.ietf.org/doc/draft-liu-agent-metadata-sync-protocol/) — agent metadata synchronization protocol.
+- [draft-morrison-alter-uri-scheme](https://datatracker.ietf.org/doc/draft-morrison-alter-uri-scheme/) — URI scheme dispatching ~handle references to an OS-level URI handler, resolved over mcp-dns-discovery.
 - [draft-morrison-mcp-dns-discovery](https://datatracker.ietf.org/doc/draft-morrison-mcp-dns-discovery/) — domain-scoped unicast DNS TXT records for MCP server discovery.
 - [draft-moussa-dawn-gap-analysis](https://datatracker.ietf.org/doc/draft-moussa-dawn-gap-analysis/) — gap analysis of existing discovery mechanisms against DAWN requirements.
 - [draft-mozley-aidiscovery](https://datatracker.ietf.org/doc/draft-mozley-aidiscovery/) — AID problem statement; requirements for context-aware discovery, capability schemas, versioning and lifecycle, trust in the discovery process, organizational control over advertising agents.
@@ -193,6 +195,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 
 - [draft-cui-ai-agent-discovery-invocation](https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/) — AIDIP; unified invocation API (also see Category 2).
 - [draft-hood-agtp-discovery](https://datatracker.ietf.org/doc/draft-hood-agtp-discovery/) and [draft-hood-agtp-api](https://datatracker.ietf.org/doc/draft-hood-agtp-api/) — AGTP substrate handles tool, resource, and API discovery and invocation within the same substrate as agent-to-agent communication, using the semantic methods (QUERY, EXECUTE, DELEGATE).
+- [draft-morrison-mcp-tool-surface-names-registry](https://datatracker.ietf.org/doc/draft-morrison-mcp-tool-surface-names-registry/) — IANA registry (Specification Required) for Model Context Protocol tool surface names.
 - [draft-pelov-bounded-agent-capabilities](https://datatracker.ietf.org/doc/draft-pelov-bounded-agent-capabilities/) — bounded agent capabilities: problem statement.
 - [draft-pelov-rich-architecture](https://datatracker.ietf.org/doc/draft-pelov-rich-architecture/) — companion architecture for bounded agent capabilities.
 - [draft-rosenberg-aiproto-a2t](https://datatracker.ietf.org/doc/draft-rosenberg-aiproto-a2t/) — A2T: Agent-to-Tool Protocol; OpenAPI-style enumeration and invocation of third-party tools by enterprise agents.
@@ -279,6 +282,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-klrc-aiagent-auth](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/) — CIBA-based human-in-the-loop mechanism inside the AIMS model; identity-bound audit trails.
 - [draft-kuehlewind-audit-architecture](https://datatracker.ietf.org/doc/draft-kuehlewind-audit-architecture/) — human-in-the-loop escalations (step-up approvals, refusals, missed escalations) as identifiable records bindable to a run's Interaction Record.
 - [draft-morrison-binding-moment-envelope](https://datatracker.ietf.org/doc/draft-morrison-binding-moment-envelope/) — how consequential decisions are presented to a human principal at binding moments; dual-veto envelope with typed outcomes (commit, decline, amend, reject).
+- [draft-morrison-morning-brief](https://datatracker.ietf.org/doc/draft-morrison-morning-brief/) — identity-attested situational-awareness payload exchanged between organisations and agents under an Identity Accord.
 - [draft-morrison-org-alter-policy-provision](https://datatracker.ietf.org/doc/draft-morrison-org-alter-policy-provision/) — organizational policy provision for agents.
 - [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity/) — includes a comparison with CHEQ (out-of-band verification vs. user double-confirmation).
 - [draft-rosenberg-aiproto-cheq](https://datatracker.ietf.org/doc/draft-rosenberg-aiproto-cheq/) — CHEQ: human confirmation of agent-proposed decisions before execution; privacy-preserving human entry of information needed for tool invocation without disclosure to the agent.
@@ -319,6 +323,7 @@ All Internet-Draft references link to the Datatracker document page and will res
 - [draft-mih-agent-bilateral-attestation](https://datatracker.ietf.org/doc/draft-mih-agent-bilateral-attestation/) — bilateral attestation for cross-organization actions.
 - [draft-mih-sato-agent-accountability-composition](https://datatracker.ietf.org/doc/draft-mih-sato-agent-accountability-composition/) — CAN/WHO/WHAT/AUDIT accountability composition.
 - [draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/) — SCITT-anchored action records.
+- [draft-morrison-solo-agent-earn-registration](https://datatracker.ietf.org/doc/draft-morrison-solo-agent-earn-registration/) — payment-gated admission profile registering an owner-less agent as an economic principal in a transparency service.
 - [draft-morrison-substrate-provenance-grammar](https://datatracker.ietf.org/doc/draft-morrison-substrate-provenance-grammar/) — annotation grammar for agent output provenance.
 - [draft-msebenzi-evidence-action](https://datatracker.ietf.org/doc/draft-msebenzi-evidence-action/) — the evidence.* family: post-hoc, independently recomputable evidence records for agent tool calls; JCS-canonical signed receipts, hash-chained.
 - [draft-mw-spice-actor-chain](https://datatracker.ietf.org/doc/draft-mw-spice-actor-chain/), [draft-mw-spice-intent-chain](https://datatracker.ietf.org/doc/draft-mw-spice-intent-chain/), and [draft-mw-spice-inference-chain](https://datatracker.ietf.org/doc/draft-mw-spice-inference-chain/) — delegation, content, and computational provenance chains.
